@@ -3,3 +3,18 @@ h2 {
     color:brown;
 
 }
+
+body {
+    font-family: "Times New Roman",Georgia, Garamond,serif;
+}
+
+ol {
+    color: blueviolet;
+    text-align: center;
+}
+
+ul {
+    background-color: plum;
+    color:whitesmoke;
+    font-size: 22px;
+}
